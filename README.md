@@ -21,7 +21,7 @@ A Lovelace card that shows the rain gauge for [Home Assistant](https://home-assi
 1. Force refresh the Home Assistant page (<kbd>Ctrl</kbd> + <kbd>F5</kbd>)
 1. Add rain-gauge-card to your page
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=kauczu&repository=rain-gauge-card&category=plugin)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=t1gr0u&repository=rain-gauge-card&category=plugin)
 
 ### Manual
 
